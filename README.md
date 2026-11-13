@@ -1,16 +1,23 @@
-## Hi there 👋
+# Levy Schools
 
-<!--
-**levyschools-arch/levyschools-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites and AI workflows through [Peakvision](https://peakvision.digital/). I also work in drone film and video production.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VESPRA
+
+An animated concept site for a fictional olive oil brand, with a 3D bottle that responds to scroll. [View the repository](https://github.com/levyschools-arch/vespra-olive-oil).
+
+### ROOM/01
+
+A fictional tattoo studio concept with a local demo booking planner. The planner does not send bookings. [View the repository](https://github.com/levyschools-arch/room01-tattoo-studio).
+
+### Peekaboe
+
+A custom WordPress theme and product personalizer for a children's clothing webshop. The working code is private. [Read the project summary](case-studies/peekaboe.md).
+
+### Faceless video studio
+
+A private workflow for researching, producing and reviewing short videos. Publishing remains subject to human approval. [Read the project summary](case-studies/faceless-video-studio.md).
+
+For website or AI work, [contact Peakvision](https://peakvision.digital/).
