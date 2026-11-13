@@ -6,11 +6,11 @@ I build websites and AI workflows through [Peakvision](https://peakvision.digita
 
 ### VESPRA
 
-An animated concept site for a fictional olive oil brand, with a 3D bottle that responds to scroll. [View the repository](https://github.com/levyschools-arch/vespra-olive-oil).
+An animated concept site for a fictional olive oil brand, with a 3D bottle that responds to scroll. [View the site](https://levyschools-arch.github.io/vespra-olive-oil/) or [see the repository](https://github.com/levyschools-arch/vespra-olive-oil).
 
 ### ROOM/01
 
-A fictional tattoo studio concept with a local demo booking planner. The planner does not send bookings. [View the repository](https://github.com/levyschools-arch/room01-tattoo-studio).
+A fictional tattoo studio concept with a local demo booking planner. The planner does not send bookings. [View the site](https://levyschools-arch.github.io/room01-tattoo-studio/) or [see the repository](https://github.com/levyschools-arch/room01-tattoo-studio).
 
 ### Peekaboe
 
